@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manue-Towett
 - 👀 I’m interested in python, javascript, css, html and jQuery
-- 🌱 I’m currently learning jQuery
+- 🌱 I have done a course in Bsc. Electrical and electronics engineering, specialized in telecommunications and I am currently looking to acquire soft skills 
 - 💞️ I’m looking to collaborate on any project that falls under my areas of interest listed above
 
 <!---
